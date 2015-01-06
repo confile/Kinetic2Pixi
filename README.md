@@ -1,6 +1,8 @@
 Kinetic2Pixi
 ============
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/confile/Kinetic2Pixi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The project describes the migration of a KineticJs application to PixiJs
 
 
