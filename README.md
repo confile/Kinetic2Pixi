@@ -25,8 +25,8 @@ Join the project
 - If you want to join this project you can contact me at mail@michaelgorski.de or file an issue.
 - Gitter Chat: https://gitter.im/confile/Kinetic2Pixi
 
-ToDo Kinetic which should be migrated
-=============================================
+ToDo for Kinetic to Pixi migration
+==================================
 
 - Zoom
 - Kinetic.Layer is handled using stage.addChild method with the index parameter
@@ -34,4 +34,11 @@ ToDo Kinetic which should be migrated
 - Kinetic.Image to PIXI.ImageLoader
 - Kinetic.Group to PIXI.DisplayObjectContainer
 - Event listeners are handled through PIXI.DisplayObject (abstract class, all object extend this and thus have listeners)
+  - Kinetic Stage events, Kinetic Node events
+- Event listeners through Pixi InteractionManager
+- Kinetic milti touch event
+- Kinect Layer system
+
+
+
 
