@@ -36,7 +36,7 @@ ToDo for Kinetic to Pixi migration
 - Event listeners are handled through PIXI.DisplayObject (abstract class, all object extend this and thus have listeners)
   - Kinetic Stage events, Kinetic Node events
 - Event listeners through Pixi InteractionManager
-- Kinetic milti touch event
+- Kinetic multi touch event handling on Shapes
 - Kinect Layer system
 
 
