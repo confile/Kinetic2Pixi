@@ -38,6 +38,7 @@ ToDo for Kinetic to Pixi migration
 - Event listeners through Pixi InteractionManager
 - Kinetic multi touch event handling on Shapes
 - Kinect Layer system
+- Export a Kinetic Stage to an image or a canvas
 
 
 
