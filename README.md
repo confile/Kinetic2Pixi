@@ -28,5 +28,10 @@ Join the project
 ToDo Kinetic which should be migrated
 =============================================
 
-- ...
+- Zoom
+- Kinetic.Layer is handled using stage.addChild method with the index parameter
+- Kinetic.Rect to PIXI.Graphics
+- Kinetic.Image to PIXI.ImageLoader
+- Kinetic.Group to PIXI.DisplayObjectContainer
+- Event listeners are handled through PIXI.DisplayObject (abstract class, all object extend this and thus have listeners)
 
