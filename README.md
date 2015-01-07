@@ -28,7 +28,7 @@ Join the project
 ToDo for Kinetic to Pixi migration
 ==================================
 
-- Zoom
+- Pan and Zoom - Example project here: https://github.com/Arduinology/Pixi-Pan-and-Zoom
 - Kinetic.Layer is handled using stage.addChild method with the index parameter
 - Kinetic.Rect to PIXI.Graphics
 - Kinetic.Image to PIXI.ImageLoader
